@@ -1,0 +1,4 @@
+{
+  "npm.enableScriptExplorer": true,
+  "npm.exclude": "**/node_modules/**"
+}

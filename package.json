@@ -2,6 +2,7 @@
   "name": "usmani-property-management",
   "version": "0.1.0",
   "private": true,
+  "description": "Usmani Property Management landing page",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
