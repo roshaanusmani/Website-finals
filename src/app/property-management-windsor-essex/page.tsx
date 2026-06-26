@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     description: seo.description,
     url: `${siteConfig.url}${seo.slug}`,
     siteName: siteConfig.name,
-    images: [{ url: "/images/logo.png", width: 666, height: 195, alt: siteConfig.name }],
+    images: [{ url: "images/logo.png", width: 666, height: 195, alt: siteConfig.name }],
     locale: "en_CA",
     type: "website",
   },
